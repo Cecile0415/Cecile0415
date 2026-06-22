@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi I'm Kipkunur Cecilia
 
-<!--
-**Cecile0415/Cecile0415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I'm currently learning advanced Data Analytics and Data Mining
+I'm intrested in intersection of Artificial Intelligence and health informatics
+I'm looking to collaborate on digital solutions to improve healthcare systems with a focus on data quality and health informatics.
 
-Here are some ideas to get you started:
+## Skills I'm building
+Git and github
+Machine learning and Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current projects
+Asthma data reporting audits within level 5 hospitals to enhance system accountability.
+
+## How to reach me
+Email:kipkunurcecilia@gmail.com
+
